@@ -1,0 +1,17 @@
+[
+{
+"modid": "psi",
+"name": "PSIONIC",
+"description": "psyioci",
+"version": "0.1",
+"credits": "Mike",
+"mcversion": "",
+"updateUrl": "",
+"authors": [ "mike" ],
+"parent":"",
+"screenshots": [],
+"dependencies": [
+"mod_MinecraftForge"
+]
+}
+]
